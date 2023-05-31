@@ -1,7 +1,7 @@
 #!/bin/bash
 
 usage() {
-  echo "Usage: lin.sh [-u target.com] | [-l path/to/subdomains.txt]"
+  echo "Usage: lina [-u target.com] | [-l path/to/subdomains.txt]"
 }
 
 print_light_sky_blue() {
